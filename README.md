@@ -1,2 +1,2 @@
 # projeto-site
-Projeto de um site de teste para aprendizagem
+Projeto de um site de teste para aprendizagem em Git e GitHub
